@@ -5,7 +5,9 @@
 
 ### Vista general
 
-<img src="https://github.com/user-attachments/assets/b78a8092-61af-4dab-86ac-ada18ce2603e" width="900"/>
+<img src="https://github.com/user-attachments/assets/b78a8092-61af-4dab-86ac-ada18ce2603e" width="900"/> 
+
+<br><br>
 
 ### Análisis detallado
 
