@@ -119,7 +119,6 @@ Flujo configurado en Power Automate para:
 - **Dashboard publicado (Power BI Service):** `<https://app.fabric.microsoft.com/view?r=eyJrIjoiMjRmNzZjMDEtNTFkNC00NjA3LTg5OWItYmI1ZDEzYjhmZjE4IiwidCI6IjFmODEwNTkyLTJiMTAtNGQyZi05ZDFkLWNhMzFiMjY5MTVkZSIsImMiOjR9>`
 - **Dataset / carpeta de datos (Google Drive):** `<enlace pendiente>`
 - **Documento de framework / propuesta conceptual:** `<https://docs.google.com/document/d/1jU8Wb_MsmMeE9AmWmWBDQJAY8Shdxgzt-cUCSGR-dOY/edit?tab=t.0#heading=h.dti9y3lmio3y>`
-- **Documento de reconstrucción del modelo DAX:** `<enlace pendiente>`
  
 ## 12. Equipo
  
