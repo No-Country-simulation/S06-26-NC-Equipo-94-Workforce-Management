@@ -1,11 +1,13 @@
 ﻿# S06-26-NC-Equipo-94-Workforce-Management
 
-## Dashboard
-
-📊 Ver el dashboard en Power BI:
-
-<img width="1650" height="917" alt="image" src="https://github.com/user-attachments/assets/b78a8092-61af-4dab-86ac-ada18ce2603e" />
+🔗 **Ver dashboard interactivo:**  
 
 
-<img width="1626" height="921" alt="image" src="https://github.com/user-attachments/assets/54efbdd8-2abe-493b-b444-401d53939c66" />
+### Vista general
+
+<img src="https://github.com/user-attachments/assets/b78a8092-61af-4dab-86ac-ada18ce2603e" width="900"/>
+
+### Análisis detallado
+
+<img src="https://github.com/user-attachments/assets/54efbdd8-2abe-493b-b444-401d53939c66" width="900"/>
 
